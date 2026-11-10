@@ -1,0 +1,125 @@
+{
+ "v": 1,
+ "brand": {
+  "name": "SportXpress",
+  "logo": "logo.jpg",
+  "announce": "Prepaid orders only. Pay securely by UPI.",
+  "heroTitle": "Gear built to move fast",
+  "heroSub": "Cricket, skating and more, from our own SportXpress range.",
+  "heroCta": "Shop now",
+  "accent": "#c9a032"
+ },
+ "contact": {
+  "whatsapp": "918868952363",
+  "upiId": "pskater487-1@okicici",
+  "qr": "upi-qr.jpg"
+ },
+ "categories": [
+  {
+   "id": "cricket",
+   "name": "Cricket"
+  },
+  {
+   "id": "tennis",
+   "name": "Tennis Racket"
+  },
+  {
+   "id": "football",
+   "name": "Football"
+  },
+  {
+   "id": "skates",
+   "name": "Skates"
+  }
+ ],
+ "products": [
+  {
+   "id": "p1",
+   "name": "SX Cricket Bat, Gold Edition",
+   "cat": "cricket",
+   "price": 4999,
+   "mrp": 6999,
+   "desc": "Demo product. Edit this text, price and photos from the admin panel.",
+   "options": [
+    "Short Handle",
+    "Long Handle"
+   ],
+   "images": [
+    "bat-front.jpg",
+    "bat-views.jpg"
+   ],
+   "stock": true
+  },
+  {
+   "id": "p2",
+   "name": "SX Road Skates, Royal Blue",
+   "cat": "skates",
+   "price": 2999,
+   "mrp": 3999,
+   "desc": "Demo product. Edit this text, price and photos from the admin panel.",
+   "options": [
+    "UK 4",
+    "UK 5",
+    "UK 6",
+    "UK 7",
+    "UK 8"
+   ],
+   "images": [
+    "skate-blue.jpg"
+   ],
+   "stock": true
+  },
+  {
+   "id": "p3",
+   "name": "SX Road Skates, Yellow Maroon",
+   "cat": "skates",
+   "price": 2999,
+   "mrp": 3999,
+   "desc": "Demo product. Edit this text, price and photos from the admin panel.",
+   "options": [
+    "UK 4",
+    "UK 5",
+    "UK 6",
+    "UK 7",
+    "UK 8"
+   ],
+   "images": [
+    "skate-yellow-side.jpg",
+    "skate-yellow-top.jpg"
+   ],
+   "stock": true
+  },
+  {
+   "id": "p4",
+   "name": "SX Road Skates, Olive Maroon",
+   "cat": "skates",
+   "price": 2999,
+   "mrp": 3999,
+   "desc": "Demo product. Edit this text, price and photos from the admin panel.",
+   "options": [
+    "UK 4",
+    "UK 5",
+    "UK 6",
+    "UK 7",
+    "UK 8"
+   ],
+   "images": [
+    "skate-olive.jpg"
+   ],
+   "stock": true
+  },
+  {
+   "id": "p5",
+   "name": "SX Adjustable Beginner Skates",
+   "cat": "skates",
+   "price": 1299,
+   "mrp": 1799,
+   "desc": "Demo product. Edit this text, price and photos from the admin panel.",
+   "options": [],
+   "images": [
+    "skate-adjustable.jpg"
+   ],
+   "stock": true
+  }
+ ]
+}
